@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mariah is 50!</title>
+    <link>https://www.dropbox.com/</link>
+    <language>en-us</language>
+    <description>A Superstar is Born in 1976 - Mariah Froehlich</description>
+    <itunes:author>Friends and Family</itunes:author>
+    <itunes:summary>A Superstar is Born in 1976 - Mariah Froehlich</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://www.dropbox.com/scl/fi/z0tl4yui6iqy8shbb7pfp/A-Star-is-Born-in-1976.png?rlkey=l9xhlk2b46z8f01o3w9ehrktz&amp;st=5beps35w&amp;raw=1"/>
+    <image>
+      <url>https://www.dropbox.com/scl/fi/z0tl4yui6iqy8shbb7pfp/A-Star-is-Born-in-1976.png?rlkey=l9xhlk2b46z8f01o3w9ehrktz&amp;st=5beps35w&amp;raw=1</url>
+      <title>Mariah is 50!</title>
+      <link>https://www.dropbox.com/</link>
+    </image>
+    <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 13:11:18 GMT</lastBuildDate>
+
+    <item>
+      <title>01 - Karen Ballenger</title>
+      <description>01 - Karen Ballenger</description>
+      <itunes:summary>01 - Karen Ballenger</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/agoewxvi9zfqfn62g7es8/Karen-Ballenger.png?rlkey=0bsxnvkxpjk7iv7qe2c8akiz5&amp;st=hqxdbwma&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/168fsnkb6gcwqr6ijoi3u/01-Karen-Ballenger.m4a?rlkey=nliujvjqngo0dsyzg5e2rvatq&amp;st=5e5rk1d1&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-01</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>02 - Karen Scott</title>
+      <description>02 - Karen Scott</description>
+      <itunes:summary>02 - Karen Scott</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/tc1wa4fs5vd2vwf0v39te/Karen-Scott.png?rlkey=ft8fusbu2lhdw9meyh83ku80g&amp;st=scp2i2e6&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/mhjksrzww9lpj1m0omvys/02-Karen-Scott.m4a?rlkey=hjd2fayj8unzwfvt2gb6fozzf&amp;st=8bk55p73&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-02</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>03 - Sue Gilman</title>
+      <description>03 - Sue Gilman</description>
+      <itunes:summary>03 - Sue Gilman</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/v0xrksho6am7gx18kvy9g/Sue-Gilman.png?rlkey=suqiqxc9llwfsv151991ut2m5&amp;st=vz3e2cs5&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/ovqecsiv7wpausl3vt0nv/03-Sue-Gilman.m4a?rlkey=xyrnu2flpfo5s29phiss3428t&amp;st=7mci7vfi&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-03</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>04 - Morgan McMillian</title>
+      <description>04 - Morgan McMillian</description>
+      <itunes:summary>04 - Morgan McMillian</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/0e6p1hdrcvc4cq5a8hobh/Morgan-McMillian.png?rlkey=qgztobnd235g3v31rpb1t7du5&amp;st=tydlvcsz&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/89l9trkbv8iygui1gr7um/04-Morgan-McMillian.m4a?rlkey=h8o1nujh3v19ls0o31nqsepzl&amp;st=vpjdh4fa&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-04</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>05 - Linden Joiner</title>
+      <description>05 - Linden Joiner</description>
+      <itunes:summary>05 - Linden Joiner</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/emh24y5spnnqhn5yvxsx8/Linden-Joiner.png?rlkey=gstvf28nif5zqf04pq8dtrotd&amp;st=xuueadw0&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/i11kurla1f0c3wr8nf9bl/05-Linden-Joiner.mp3?rlkey=puk93f6acn1yi83jfbeeod37g&amp;st=12xgxm0o&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-05</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>06 - Nicholle Halprin</title>
+      <description>06 - Nicholle Halprin</description>
+      <itunes:summary>06 - Nicholle Halprin</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/er3wtj7mmac6h7v8jkbdg/Nicholle-Halprin.png?rlkey=hjkpjw0h0rflrek180hblexwl&amp;st=z5l1k9lk&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/8u29crt88exic207hp1tv/06-Nicholle-Halprin.m4a?rlkey=qnc3ukb14hho8r9a7cr32ysbw&amp;st=jpkzp759&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-06</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>07 - Ashley Szulim-Sabean</title>
+      <description>07 - Ashley Szulim-Sabean</description>
+      <itunes:summary>07 - Ashley Szulim-Sabean</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/cfzb9i8bpsnk5fo6omxka/Ashley-Szulim-Sabean.png?rlkey=msu836c3ooz7puoianziggja0&amp;st=mk7bi0ar&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/c6n9mc8fl94dauhij9h5f/07-Ashley-Szulim-Sabean.m4a?rlkey=1xvatef43va0a60f4y43rtpb8&amp;st=9y669jv3&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-07</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>08 - Livia Higgins</title>
+      <description>08 - Livia Higgins</description>
+      <itunes:summary>08 - Livia Higgins</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/7aqnzu4h9ymaox2iyyeau/Livia-Higgins.png?rlkey=lq6udx0i5ocafxdfuxnpq962f&amp;st=lr482416&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/0nrr3m5v9k3ed5bp2v6yl/08-Livia-Higgins.m4a?rlkey=5ewjosi9zrgg6fv1iibrpjxxs&amp;st=slrcgf4j&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-08</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>09 - Michael Wright</title>
+      <description>09 - Michael Wright</description>
+      <itunes:summary>09 - Michael Wright</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/vm5xleyzopl3wnydi4n4m/Michael-Wright.png?rlkey=q08w1kgxxq8lre5pw6lbjwmmg&amp;st=8pr9ra1o&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/2vgk6ayzaoooscxj04asc/9-Michael-Wright.m4a?rlkey=6rk1vb8o1ysm3l0znajfcxakd&amp;st=b3s899me&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-09</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 - Julie Ellett</title>
+      <description>10 - Julie Ellett</description>
+      <itunes:summary>10 - Julie Ellett</itunes:summary>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/cbnx0tz54exwm65i80mot/Julie-Ellett.png?rlkey=mt46zcqls0lchk9ex8zhiapao&amp;st=391v5nnh&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/j32q2z7u1a5oxm9r4np2x/10-Julie-Ellett.m4a?rlkey=s3r60vb45hwd4vbphf5h1urex&amp;st=i1krdt50&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-10</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>11 - Dave Froehlich</title>
+      <description>11 - Dave Froehlich</description>
+      <itunes:summary>11 - Dave Froehlich</itunes:summary>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/uvs7ot2l1e34ryiwufvz2/Dave-Froehlich.png?rlkey=mjii4hs4e325tlkruxxklsk68&amp;st=6tdtz55f&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/vrv0ba67fgoky4rvga15j/11-Dave-Froehlich.mp3?rlkey=2kbv3vwpl0vx13q3c4uxd863j&amp;st=0lj9ve9s&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-11</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>12 - Raj Kamat</title>
+      <description>12 - Raj Kamat</description>
+      <itunes:summary>12 - Raj Kamat</itunes:summary>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/kuijw43ymtsizvtb72ld6/Raj-Kamat.png?rlkey=qhmp63nzb17oxvuta3n0erjzj&amp;st=znlou7jk&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/p4jjmuvl2zt2zmzcxqiar/12-Raj-Kamat.mp3?rlkey=odopfdidg1kp8gfikkb0ev1oo&amp;st=ydlca6aa&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-12</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>13 - Sunny Reed</title>
+      <description>13 - Sunny Reed</description>
+      <itunes:summary>13 - Sunny Reed</itunes:summary>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/l2pr1waoadpvwmy8050q9/Sunny-Reed.png?rlkey=k51mejgh69509teurljemf938&amp;st=ibl3m43c&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/iqdn4786uekc3f0g81rex/13-Sunny-Reed.mp3?rlkey=lk7wgqnvmvnrkacm36xam9uuu&amp;st=852loju8&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-13</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>14 - Suzette Coates</title>
+      <description>14 - Suzette Coates</description>
+      <itunes:summary>14 - Suzette Coates</itunes:summary>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/eg3wb4fsbzp9fktjkmvnv/Suzette-Coates.png?rlkey=b2gvv5we7qux5iph0ujq9sjlu&amp;st=65ww0f92&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/2i591h4iesz5ayxi137pe/14-Suzette-Coates.mp3?rlkey=91sx7tt17f8zks3qzox2tobn0&amp;st=1ydmpq1i&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-14</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 - Kirby Reed</title>
+      <description>15 - Kirby Reed</description>
+      <itunes:summary>15 - Kirby Reed</itunes:summary>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/ly7a9w6q3240c8pjlhsuz/Kirby-Reed.png?rlkey=x853hu3p1or5hid2z6v6b809e&amp;st=yoi7s8ta&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/gqx59qm4tb05qotnunvi1/15-Kirby-Reed.m4a?rlkey=9q5nn6b3gsart2z609tqjg2h4&amp;st=cmtxh7vi&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-15</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>16 - Chris Pepper</title>
+      <description>16 - Chris Pepper</description>
+      <itunes:summary>16 - Chris Pepper</itunes:summary>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/ox6cjvbwfjw93ylm3u6v8/Chris-Pepper.png?rlkey=xndqnp57400b9vz68p0enhq00&amp;st=4utdx78u&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/87ce8u43t1r7q7pnonabe/16-Chris-Pepper.m4a?rlkey=6wl9zs83jw67ag9hvz4tiuhyq&amp;st=1ix6jrpm&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-16</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>17 - Jamie Pepper</title>
+      <description>17 - Jamie Pepper</description>
+      <itunes:summary>17 - Jamie Pepper</itunes:summary>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/87zqo1l5ojk1yju0m8iet/Jamie-Pepper.png?rlkey=p8apsz7rc4h9gyowm33iyilvg&amp;st=tarwdjhk&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/tx5acltv0uoge36o2qf51/17-Jamie-Pepper.mp3?rlkey=awbjih5v2l8xlohsf43fczvy7&amp;st=vo2mll4r&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-17</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>18 - Mary Jahns</title>
+      <description>18 - Mary Jahns</description>
+      <itunes:summary>18 - Mary Jahns</itunes:summary>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/fohjramiwm9qbkdqfo8hm/Mary-Jahns.png?rlkey=n7qjbs0v0n3kopfhkfbwpkia5&amp;st=83cc4gmu&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/088jj0ky4a2q14r5h0e5b/18-Mary-Jahns.m4a?rlkey=vuhfj22ft8adhs771j1dttazq&amp;st=bik9rhbl&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-18</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>19 - Claire Reed</title>
+      <description>19 - Claire Reed</description>
+      <itunes:summary>19 - Claire Reed</itunes:summary>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/c9nc88elcki41g9yyarzv/Claire-Reed.png?rlkey=nk2b2t4gbdeeiseoba00ztun8&amp;st=rg99ae7b&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/npacxjhhhdt0k83urig70/19-Claire-Reed.m4a?rlkey=814lsyogs8si15u9n4p031wc3&amp;st=4q0ehak8&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-19</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 - Mia Froehlich</title>
+      <description>20 - Mia Froehlich</description>
+      <itunes:summary>20 - Mia Froehlich</itunes:summary>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/o3tfv2hlx3zjp8l9dph5o/Mia-Froehlich.png?rlkey=sbp4w6hcemm6lu0jdwdfnnnsr&amp;st=qz764xmr&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/yh8reylnlk4nws2gcbimh/20-Mia-Froehlich.m4a?rlkey=q1r7ty7my0w694x5huvbxlqnj&amp;st=a6u9fjor&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-20</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>21 - Jackson Froehlich</title>
+      <description>21 - Jackson Froehlich</description>
+      <itunes:summary>21 - Jackson Froehlich</itunes:summary>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/0l5edkdbud5zkctrugzb1/Jackson-Froehlich.png?rlkey=hmjo2et557tlio22onxya13r3&amp;st=3a8ygizi&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/4527eeyaf1lar2t1geh29/21-Jackson-Froehlich.m4a?rlkey=hmx84a6vzb2fr9zrjf0cwd9p0&amp;st=32kh8tqq&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-21</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>22 - Gabe Garcia</title>
+      <description>22 - Gabe Garcia</description>
+      <itunes:summary>22 - Gabe Garcia</itunes:summary>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/rpwhz4zd9zmrggx1jf0iu/Gabe-Garcia.png?rlkey=s60f95pv7ymtxgfdqae9mkefz&amp;st=52q569td&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/lr93uzxf7m22szmo3r1bt/22-Gabe-Garcia.mp3?rlkey=0rah7uslf60gf4zrzjpva43cp&amp;st=itp35f0l&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-22</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>23 - Wendy Wright</title>
+      <description>23 - Wendy Wright</description>
+      <itunes:summary>23 - Wendy Wright</itunes:summary>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/kninafjgtdr47dmni7fo2/Wendy-Wright.png?rlkey=r1btqvsl692qr5in9pw1m5hr3&amp;st=w49x0sex&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/ntb1noj9eaf6oebcid1vq/23-Wendy-Wright.m4a?rlkey=u86w5o5krzb011hskcaxq4jkk&amp;st=0y3dv5x7&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-23</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>24 - Stephen Heiman</title>
+      <description>24 - Stephen Heiman</description>
+      <itunes:summary>24 - Stephen Heiman</itunes:summary>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/m0ff3zpv9k5uxunuh0096/Stephen-Heiman.png?rlkey=0wewdog2g6udpni3bmzaga7rc&amp;st=jkstsczb&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/3one6paz48c0drowfko92/24-Stephen-Heiman.m4a?rlkey=f3b6jiqth2kidghraqqo47veh&amp;st=ht392pel&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-24</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>25 - Jenna Kurz</title>
+      <description>25 - Jenna Kurz</description>
+      <itunes:summary>25 - Jenna Kurz</itunes:summary>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/7tdjvcylk4fcgb1ujq446/Jenna-Kurz.png?rlkey=hwkq0nn5rw31si74nxchrf8qt&amp;st=5wy8bgf9&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/hcrwj52s1kw9is6nhvzs7/25-Jenna-Kurz.m4a?rlkey=3joz9poe3g0mx4hwwb6kq7006&amp;st=w27j6aut&amp;raw=1" type="audio/x-m4a" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-25</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>26 - Gwen Reed</title>
+      <description>26 - Gwen Reed</description>
+      <itunes:summary>26 - Gwen Reed</itunes:summary>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.dropbox.com/scl/fi/zm9vkaxv484g151gukmpt/Gwen-Reed.png?rlkey=ibcs6pffkn5pxd8azekwyphr9&amp;st=y8zydost&amp;raw=1"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/mtwhwtnqnfaqofo0j18xl/26-Gwen-Reed.mp3?rlkey=9xv01s1inanwcuckhgp3s7frg&amp;st=ecwgakhr&amp;raw=1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">mariah-is-50-episode-26</guid>
+      <pubDate>Tue, 19 May 2026 13:11:18 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
